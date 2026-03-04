@@ -1,5 +1,5 @@
 function firstMessage() {
-    console.log('hello wold');
+    console.log('hello world');
 }
 
 function main() {
